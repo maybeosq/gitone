@@ -1,0 +1,5 @@
+public com.zking
+
+public static void main(String[] arges){
+  System.out.println("原则抵不过你乐意");
+}
